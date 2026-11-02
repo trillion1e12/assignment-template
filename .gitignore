@@ -1,5 +1,5 @@
 *.aux
-*.bbl
+*.bbl*
 *.bcf
 *.fdb_latexmk
 *.fls
@@ -11,4 +11,3 @@
 *.synctex.gz
 *.toc
 *.blg
-Report__template___Copy_.zip
